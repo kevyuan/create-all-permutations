@@ -13,4 +13,4 @@ Google Apps script to create all permutations from a table
 
 ## Sample
 
-There is a sample Google Sheet set up here with the INPUT and OUTPUT sheets: [https://docs.google.com/spreadsheets/d/178RkmNxGvOrwtc3vWlnp3I7-MHNYQ42wEe0ezdYNhtE/edit#gid=1795575651]
+There is a sample Google Sheet set up here with the INPUT and OUTPUT sheets: <https://docs.google.com/spreadsheets/d/178RkmNxGvOrwtc3vWlnp3I7-MHNYQ42wEe0ezdYNhtE/edit#gid=1795575651>
